@@ -1,4 +1,4 @@
-# Code for the paper: "[Efficient Fine-Tuning of Pre-trained Code Models for Just-in-Time Defect Prediction]()""
+# Code for the paper: "[Parameter Efficient Fine-Tuning of Pre-trained Code Models for Just-in-Time Defect Prediction]()""
 
 This is the official repository for our paper on utilizing pre-trained code lanugage models for the task of Just-in-Time Software Defect Prediction.
 
