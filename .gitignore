@@ -1,0 +1,7 @@
+__pycache__/
+apache sources/*
+CC2Vec/data+model/data/
+CC2Ftr/
+models/
+snapshot/
+datasets/
