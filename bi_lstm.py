@@ -1,3 +1,5 @@
+import torch
+from torch import nn
 class BiLSTM(nn.Module):
     
     def __init__(self,vocab_size,embed_size=300,hidden_size=64,lstm_layers=4,dropout=0.1,padding_id=0):

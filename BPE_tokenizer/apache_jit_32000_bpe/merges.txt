@@ -1,4 +1,4 @@
-#version: 0.2 - Trained by `huggingface/tokenizers`
+#version: 0.2
 Ġ <
 a d
 ad d
@@ -572,8 +572,8 @@ h er
 th is
 one nt
 a il
-o m
 le ment
+o m
 s um
 pt or
 D E
@@ -896,8 +896,8 @@ ri bu
 if y
 iz ed
 m l
-n ode
 lement s
+n ode
 Ġf rom
 ar get
 m ock
@@ -1064,8 +1064,8 @@ re ak
 a iled
 Str ategy
 m ap
-B y
 ĠS er
+B y
 p y
 B ody
 Ġt ask
@@ -1837,8 +1837,8 @@ Pro cedure
 ceive d
 Ġ local
 Ġo ffset
-et ch
 Ġab stract
+et ch
 D S
 I dent
 ex change
@@ -2051,8 +2051,8 @@ met rics
 in is
 A uth
 re d
-me d
 ff in
+me d
 ffin ity
 pro cess
 Ġbu f
@@ -2198,8 +2198,8 @@ co py
 Ġc ur
 current Time
 i a
-ĠArray s
 L imit
+ĠArray s
 Ġvalue s
 Ġex p
 Ġ up
@@ -2276,8 +2276,8 @@ con dition
 Ġtime out
 LI C
 Inter preter
-Po int
 Ġ Node
+Po int
 ĠDE FAULT
 Ġ Exchange
 D river
@@ -2755,8 +2755,8 @@ d o
 i as
 ĠTo ken
 Ġparam s
-.. .
 ĠO zone
+.. .
 j ection
 Stand ard
 Ġ cell
@@ -2912,8 +2912,8 @@ Co processor
 RO M
 avail able
 Ġpro to
-Ġs p
 Ġ actual
+Ġs p
 D one
 Comp arison
 ĠRe gion
@@ -3759,8 +3759,8 @@ CLI ENT
 Sh ared
 am azon
 N ear
-t ri
 Regist er
+t ri
 N ONE
 de sc
 pt im
@@ -3790,9 +3790,9 @@ R L
 N C
 ĠSche ma
 I mp
+P rivilege
 W RITE
 Ġkey space
-P rivilege
 Ġ array
 Visible ForTesting
 P lugin
@@ -4040,12 +4040,12 @@ ss l
 Up load
 Ġname s
 Al gorithm
+Ġen um
 ĠTest ing
 Check er
 net es
 serve d
 uber netes
-Ġen um
 Ġgener ate
 L lap
 or ies
@@ -4265,8 +4265,8 @@ net work
 ĠU SER
 ll ap
 ĠC F
-2 9
 Opt im
+2 9
 L ive
 { \"
 Ġsh utdown
@@ -4320,8 +4320,8 @@ Data Input
 ĠZ ooKeeper
 Ap pend
 C lean
-ĠW AL
 P rincipal
+ĠW AL
 pro c
 To String
 T Field
@@ -4422,9 +4422,9 @@ Invo cation
 z k
 w al
 sh ould
+Arch ive
 if icate
 Ġapp Id
-Arch ive
 Ġ delet
 Ġcache d
 Pri mary
@@ -4527,8 +4527,8 @@ ver tex
 Multip le
 Ġn m
 Data Type
-ĠIn etSocketAddress
 O ps
+ĠIn etSocketAddress
 LOC AL
 Ġd st
 ĠCh ar
@@ -4796,8 +4796,8 @@ y y
 su med
 j dbc
 men ted
-v ance
 L L
+v ance
 Comp are
 ĠNo Such
 ĠD ummy
@@ -5414,10 +5414,10 @@ message s
 Ġexp ect
 Ġm ark
 Ġde scriptor
-Ġadd r
 hent ic
 rain er
 set Value
+Ġadd r
 Ġde ad
 pl ain
 ac l
@@ -5483,9 +5483,9 @@ qual To
 RES OURCE
 č Ġ
 J ms
+ĠS park
 TO KEN
 MANA GER
-ĠS park
 pe er
 Cell s
 Requirement Type
@@ -6000,9 +6000,9 @@ p attern
 mb stone
 se e
 TI AL
+Record Reader
 Sh ipStrategy
 Ġresource Manager
-Record Reader
 b b
 qu et
 Ġget Type
@@ -6360,9 +6360,9 @@ Sc m
 ceiver Client
 / "
 c i
-Ġget Table
 Ġle af
 Ġ Destination
+Ġget Table
 prec ation
 get Token
 R ack
@@ -6371,8 +6371,8 @@ get Cluster
 Ġ Metadata
 field Name
 il led
-Po ll
 ĠVer tex
+Po ll
 be fore
 ĠNull PointerException
 DB C
@@ -6629,10 +6629,10 @@ An not
 Ġexecutor Service
 ĠEnum Set
 t imer
-Ġsp ace
 d le
 Ġd ist
 Endpoint Inject
+Ġsp ace
 T rainer
 ", "
 job graph
@@ -6657,8 +6657,8 @@ ro k
 Ġinput Stream
 F low
 l ator
-hel per
 Ġ Counter
+hel per
 sp ection
 ĠStorage Service
 5 1
@@ -6673,10 +6673,10 @@ SSTable s
 ip ient
 STAT US
 5 000
+Column Statistics
 sist ent
 id dle
 read I
-Column Statistics
 Ġcheck sum
 local Node
 Ġhive Conf
@@ -7172,9 +7172,9 @@ Dir Path
 gr p
 go ing
 C a
+ĠV ersion
 iagnost ics
 eigh b
-ĠV ersion
 st ack
 TR Y
 ĠPri ority
@@ -7258,8 +7258,8 @@ group Id
 ĠSer des
 Mod ify
 f iling
-Ġ Writer
 Map Join
+Ġ Writer
 M achine
 Comp acted
 Ġdi ff
@@ -7742,10 +7742,10 @@ Quota Protos
 Ġcompare To
 Ġb inary
 Ġcell s
+Ex t
 Ġb ig
 Process ed
 PAR T
-Ex t
 su ite
 ĠS lice
 > []
@@ -8005,9 +8005,9 @@ Cache Key
 ire ction
 Client Exception
 R R
+ĠT rigger
 double Value
 add Family
-ĠT rigger
 ĠJ MX
 Definition s
 Reduce Function
@@ -8102,9 +8102,9 @@ Checkpoint s
 ir c
 E V
 cluster ing
-mb ol
 Match ing
 Transaction Id
+mb ol
 Ġ Copy
 Ġtable Env
 Ġ QUALIFIER
@@ -8205,9 +8205,9 @@ Access ible
 Host name
 i dentity
 Ġp k
-Ġ Quorum
 System Properties
 ] ");
+Ġ Quorum
 Parse Exception
 r ules
 set Time
@@ -8271,12 +8271,12 @@ Mem table
 Service Exception
 99 9
 SP LIT
+Ġsh ow
 ĠQuery Path
 Re balance
 Con sume
 lo op
 Grid Dht
-Ġsh ow
 PE LIN
 user s
 PAR AM
@@ -8453,8 +8453,8 @@ po p
 ker beros
 Rule s
 Master CoprocessorEnvironment
-ĠColumn Statistics
 IL D
+ĠColumn Statistics
 ĠSE T
 e scape
 k ed
@@ -8612,8 +8612,8 @@ ALLE LISM
 ĠH dds
 RE TRY
 list en
-Con sumed
 Ġoc cur
+Con sumed
 Ġget Num
 a h
 s orted
@@ -8918,12 +8918,12 @@ B Y
 Ġm an
 Ap ply
 Ġbe gin
+ĠRecord Reader
 R s
 Z xid
 Str ategies
 per mission
 sl t
-ĠRecord Reader
 Ġl atest
 ĠChar acter
 ĠVector izedRowBatch
@@ -9178,9 +9178,9 @@ Re served
 as m
 Container Protos
 Thread Factory
+S parse
 Z OOKEEPER
 Dist inct
-S parse
 t m
 pl ied
 Remote Exception
@@ -11750,12 +11750,12 @@ bo un
 Ġfunction Name
 a id
 De pendent
+Ġget Partition
 ĠA ck
 Node List
 Ġcreate Registry
 NODE S
 get Function
-Ġget Partition
 yb rid
 L ING
 Config urer
@@ -12666,6 +12666,7 @@ Th in
 ized Key
 OP TI
 ĠField Set
+ĠDatanode Info
 Ġ[{} ]
 ĠR outer
 Container Resource
@@ -12673,7 +12674,6 @@ Row Filter
 gr ace
 ĠHBase Fsck
 Ġjoin er
-ĠDatanode Info
 Ġincrement al
 IMA GE
 = ?
@@ -12846,10 +12846,10 @@ Generics Types
 ĠDO UBLE
 x D
 comp letion
+ĠTask Attempt
 hi bernate
 Ġc ss
 ĠA MQ
-ĠTask Attempt
 disable Table
 ĠOp codes
 ARCH IVE
@@ -13044,6 +13044,7 @@ Resolve d
 ĠIG NITE
 Z IP
 Ġc at
+ign ed
 Ġal iases
 TH AN
 ĠColumn Parent
@@ -13055,7 +13056,6 @@ get Connect
 get Left
 ĠS yntaxException
 ĠC STNode
-ign ed
 ret ries
 getC reate
 resource Manager
@@ -13347,13 +13347,13 @@ DE F
 stream record
 Ġun lock
 Ġle ave
-St riped
 In stantiation
 MA PRE
 Ġcomponent Name
 Kafka TopicPartition
 Sl ave
 ĠCH AR
+St riped
 ĠC LASS
 ĠH DFS
 Instance ID
@@ -13539,13 +13539,13 @@ ChannelHandler Context
 ĠS pec
 Vertex Id
 Ġdirect ories
-Privilege Object
 Sorted Map
 qp id
 Beh av
 ĠT wo
 Ġm arker
 Metric ByName
+Privilege Object
 getNode ID
 ĠBigInteger Token
 FieldValue MetaData
@@ -14838,7 +14838,6 @@ Reference Expression
 ĠArgument ListExpression
 Docker Constants
 AccessControl Exception
-Sy mbol
 S AX
 Ġt icket
 ul o
@@ -14852,6 +14851,7 @@ KEY WORD
 Keyed StateHandle
 Ġaff Key
 ĠAllocation ID
+Sy mbol
 re partition
 get Minimum
 set Owner
@@ -15544,6 +15544,7 @@ resource Name
 CHAR SET
 ĠHand ler
 d rain
+p p
 v ari
 Ġ had
 is Full
@@ -15558,7 +15559,6 @@ getRe servation
 ĠSub mit
 Cli Frontend
 ĠexpectedOutput Output
-p p
 Ġf latMap
 Ġr t
 ĠA D
@@ -16245,6 +16245,7 @@ output Stream
 Static Method
 getM andatory
 Authentication Exception
+Optim izer
 Escape Utils
 G REATER
 Ġget Short
@@ -16254,7 +16255,6 @@ G REATER
 Application Report
 Aggreg ated
 Quota Snapshot
-Optim izer
 ĠProcedure TestingUtility
 ĠExprNode ConstantDesc
 Na N
@@ -16607,6 +16607,7 @@ row id
 Ġre ached
 set Block
 Byte Sequence
+arn er
 ĠF ree
 ĠFile OutputFormat
 Ġcolumn Id
@@ -16620,7 +16621,6 @@ w in
 Ġj c
 Bytes Per
 ĠR oot
-arn er
 SE EK
 ĠO dbc
 Mult icast
@@ -16761,7 +16761,6 @@ String ObjectInspector
 Ġis RelatedTo
 Partition Event
 Ġread Fields
-Hive OperationType
 mb olic
 stop ped
 ĠCompiler Exception
@@ -16777,6 +16776,7 @@ create Instance
 create Bucket
 Be ing
 ĠPath s
+Hive OperationType
 Ġrel Builder
 ĠExprNode ColumnDesc
 alloc ations
@@ -16839,6 +16839,7 @@ Properties Evaluator
 Ġwh ether
 Ġan s
 ĠCon tinuous
+success ful
 Scan Metrics
 ĠEX PECTED
 orig in
@@ -16853,7 +16854,6 @@ Sub ClusterId
 Ġregion States
 Join Order
 Process Strategy
-success ful
 USER NAME
 Ġkeyspace Name
 Ġrelease d
@@ -16934,6 +16934,7 @@ get MemStoreSize
 so ut
 ĠL ifecycle
 ast orage
+ĠRe pl
 Grid Rest
 HE ALTH
 ĠColumn Identifier
@@ -16945,7 +16946,6 @@ Grant s
 Ġ arch
 get Statistics
 De ep
-ĠRe pl
 Output Size
 Cluster Service
 Command Handler
@@ -17109,6 +17109,7 @@ Client Context
 ig its
 Execution Mode
 Lock Manager
+ĠNode Processor
 Ġwait Time
 ĠComposite Type
 cacheObject Context
@@ -17125,7 +17126,6 @@ Response s
 Ġclient State
 ĠDefault Component
 WAL Provider
-ĠNode Processor
 object s
 ĠValue StateDescriptor
 getField Value
@@ -18697,6 +18697,7 @@ ol dest
 14 1
 Ġmin us
 Ġidx Name
+ĠOzone ConfigKeys
 ĠCluster Status
 ang lia
 Ġcan onical
@@ -18726,7 +18727,6 @@ Tx Finish
 Ġparent s
 Ġtmp File
 Model s
-ĠOzone ConfigKeys
 Ġtemp oraryFolder
 Ġdeserialize Portable
 DataOutput Buffer
@@ -19104,7 +19104,6 @@ With Pos
 Ġ", ");
 my app
 Page Store
-Op Type
 DB Y
 Ġapplication s
 Ġcompare Op
@@ -19125,6 +19124,7 @@ Task State
 ĠO Auth
 Default Component
 Lock Type
+Op Type
 Delete Column
 Ġcf Id
 DFS Util
@@ -19288,12 +19288,10 @@ Status Updater
 As List
 Write Ahead
 index Name
-Hive PrivilegeObject
 ĠRE SOURCE
 getRegion States
 Leader Retriever
 <?>> ();
-Bl k
 getIndex Of
 Ġrack s
 ĠCOM MIT
@@ -19311,9 +19309,11 @@ RO UT
 Ġtime To
 ĠMessage Out
 Page Memory
+Hive PrivilegeObject
 Auth Method
 Database s
 ĠConcurrent SkipList
+Bl k
 NON CE
 6 23
 F B
@@ -22530,7 +22530,6 @@ get Update
 get DB
 Ġco ordin
 ĠP acket
-Request Builder
 ĠJ pa
 Default Producer
 Ġon Failure
@@ -22554,6 +22553,7 @@ me sos
 ass ume
 ĠA B
 ĠH H
+Request Builder
 ĠB LOB
 For New
 cache Block
@@ -23635,6 +23635,7 @@ ized Checkpoint
 SC MEvents
 Rpc Address
 getA ctual
+Change Manager
 PRE CISION
 Services Configuration
 ĠOption Builder
@@ -23663,6 +23664,7 @@ set LogLevel
 ĠS V
 Test Bundle
 lin ed
+ĠH istory
 Message Ack
 Ġset Component
 ĠR aid
@@ -23680,7 +23682,6 @@ getKey Type
 ĠAbstract Task
 Var int
 Http Endpoint
-Change Manager
 Close RegionFor
 Ġstatus Code
 consumer Id
@@ -23708,7 +23709,6 @@ co uld
 Ġd to
 To Skip
 Data Directory
-ĠH istory
 Ġtest Is
 With Result
 ĠW A
@@ -25393,6 +25393,7 @@ Api Util
 connection s
 Ġexecution AttemptID
 BO OK
+ĠDatanode ID
 ĠJms Message
 Import s
 Miss ed
@@ -25445,7 +25446,6 @@ We aker
 getStatus Line
 Ġprop agate
 Encryption Algorithm
-ĠDatanode ID
 Consume s
 Ġcompile Stack
 ĠInit ial
@@ -25552,6 +25552,7 @@ Not ifications
 Ġcache Async
 Grid Test
 Sc ram
+ĠK ill
 close And
 Ġwrite Replace
 ĠHive Operation
@@ -25600,7 +25601,6 @@ Region Action
 Ġadd PartitionDesc
 Ġbe h
 ĠTest Protocol
-ĠK ill
 ĠK eep
 Schema Version
 sub scribed
@@ -29357,7 +29357,6 @@ x or
 me ans
 ie ved
 Type Description
-Ġin p
 ĠC EL
 sc a
 Node Startup
@@ -29418,11 +29417,13 @@ to DataSet
 put Boolean
 set Batch
 un assigned
+Ġin p
 File Controller
 Test Environment
 Ġw ire
 State Code
 Column Num
+Un successful
 Ġis Clean
 ĠR IGHT
 Endpoint Component
@@ -29499,7 +29500,6 @@ Override s
 Data Segment
 Cache Constants
 us pending
-Un successful
 Ġ- --
 create TableDescriptor
 create Immutable

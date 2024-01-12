@@ -1,11 +1,10 @@
 from cmath import nan
 import re
-import pygit2
 import pandas as pd
 import concurrent
 from concurrent import futures
 
-comments_start = ('//', '*', '/*', '<!--', '#')
+comments_start = ('//', '*', 'F/*', '<!--', '#')
 block_comments = ('/*', '<!--')
 comments_end = ('*/', '-->')
 symbolsToRemove = ['{', '}', ';', '\r']
@@ -279,6 +278,7 @@ class ProjectData:
 
     def extractCommitLines(self, repo, c, separate_added_removed=True):
         try:
+            #print(c)
             commit = repo.commit(c)
         except ValueError:
             return {'message': '', 'files': '', 'files_exts': '', 'added': [], 'removed': []}

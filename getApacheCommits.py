@@ -48,7 +48,8 @@ if updateTotalFile and os.path.exists(current_directory + '/totalApacheCommits.p
 else:
     total_projects_df = pd.DataFrame().reindex_like(apache_total)
     total_projects_df = total_projects_df[0:0]
-
+if not os.path.exists(current_directory + '/apache_sources'):
+    os.mkdir(current_directory + '/apache_sources')
 for p in projects:
     print('project: {} dataframe: {}'.format(p.name, p.total.shape))
     project_repo = ''

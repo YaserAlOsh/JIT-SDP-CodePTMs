@@ -1,7 +1,9 @@
 __pycache__/
 apache sources/*
+apache_sources/*
 CC2Vec/data+model/data/
 CC2Ftr/
 models/
 snapshot/
 datasets/
+wandb/
